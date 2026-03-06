@@ -3,10 +3,14 @@ title: "Welcome to My Analytics Lab"
 sidebar: false 
 ---
 
-Hello! My name is xxx xxxx.
+Hello! My name is Cihan GÜLDALI.
 
 This is my personal webpage.
 
-Please stay tuned to follow my works on data analytics, blog posts, and more.
+I am an engineering candidate studying in my senior year of mechanical engineering. Frankly, while thinking about projects for many years, I realize that school is ending. However, I know that there is still a lot of work I need to do. On the one hand, normal life is also flowing. Actually, this was my main motivation for taking this course; to enjoy the work I do. Apart from engineering, I sometimes deal with music and songwriting. I participate in nature walks, and I like these kinds of different activities. Additionally, I generally like to include the things I know into the things I don't know; this has given me quite good qualities. For a while, I have been seeing engineers around me trying to do most jobs but not being able to finish their own, and leaving people's personal issues aside, I connect the reason for this to a lack of multidisciplinarity. Since I do not want this deficiency to occur in me, I dedicated my main goal to such works that broaden my horizons. With the development of artificial intelligence, it helps me since I can handle my work in many fields. Of course, on the one hand, I am also afraid of becoming a vibe coder. When I consider the whole process, even my ability to achieve success in projects I don't know at all is proof that I am successful. By the way, I guess you are wondering how I use artificial intelligence; let me explain. I generally use artificial intelligence in 2 main types.
 
-This is our template.
+**Insurance:** I use it as an insurance for myself in the jobs I know well how to do (like my writing in Turkish right now). What does this mean? Every person makes mistakes, but seeing these mistakes is harder than doing the job. For example, while writing these, I am making a lot of grammar and spelling errors, but I don't care because artificial intelligence is perfect for this job. The same thing applies to translations; in fact, in the electronic integration projects I am doing right now, even if I cannot keep hundreds of pages of documents in my mind, artificial intelligence keeps them and corrects connection errors just like spelling errors.
+
+**Guide:** It allows me to blindly enter projects I know nothing about. This may seem hard or impossible to everyone, but engineers who can do this can become R&D and P&D engineers. In the past, interdisciplinary working engineers like me used to flip through books to master both fields; as for me, I verify the articles that artificial intelligence has flipped through.
+
+Please stay tuned to follow my works on data analytics, blog posts, and more.

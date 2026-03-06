@@ -3,28 +3,52 @@ title: "About Me"
 sidebar: false 
 ---
 
+<a href="CV.pdf" class="btn btn-primary" target="_blank">Download my CV (PDF)</a>
+
 # Education
 
--   B.S., Industrial Engineering, Hacettepe University, Turkey, 20xx - ongoing.
+-   B.S., Mechanical Engineering, Hacettepe University, Turkey, 2021 - ongoing.
 
 # Work Experience
 
-## Employements
+## Employement
 
-1.  Firm xxx, position xx, year xxx
-
-2.  Firm yyy, position yyy, year yyy
+1.  Hacettepe University , position Research Support Assistant, year 2025 September - 2026 July
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Baibars Mechatronics Inc. , position Intern, July 2024
 
-2.  Firm bbb, position yyy, year yyy
+2.  ZTR defence Industry Inc. , position Intern, July 2025
 
 # Projects
 
+**AI & Predictive Maintenance Project**
+
+Developing a Hybrid LSTM AI model to predict machine health (RUL) by
+analyzing vibration signatures. Implementing sensor fusion techniques for
+industrial bearing fault detection.(non-linear system)
+
+![](images/clipboard-401939108.png)
+
+![](images/clipboard-2117203073.png)**Smart E-Bike Kit Design**
+
+Designing a friction-drive E-Bike conversion kit with an ESP32-based
+control algorithm. Developing a Digital Twin simulation in
+MATLAB/Simulink to analyze real-time telemetry.
+
+![](images/clipboard-4065804599.png){width="595"}
+
+![](images/clipboard-1706632158.png)**Smart Forced-Air Intake & Heating Control System**
+
+Designed and built an electronic control unit for a custom fresh air heating system. The project aims to heat cold outdoor air and introduce it indoors without mixing with internal air, requiring high-static pressure airflow management.
+
+![](images/clipboard-1906474447.png)
+
 # Competencies
 
-R, Quarto, Git, Python
+R · Git · Quarto · Python · Signal Processing · Sensor Fusion · Feature Engineering · Predictive Maintenance · Deep Learning · Electronics Prototyping · Strategic Planning · Digital Twin · Python · VESC · Production Strategy
 
 # Hobbies
+
+Music · Rhythmic Poetry · Piano · Saz · Nature Walk

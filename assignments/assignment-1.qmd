@@ -12,4 +12,78 @@ My first assignment has two parts.
 
 ## (a)
 
+**I choosed 'Veri Bilimi ve Endüstri Mühendisliği Üzerine Sohbetler -Kerem Demirtaş & Erdi Daşdemir'**
+
+**1 Question: Why is Domain Knowledge considered indispensable for a data scientist when defining a problem?**
+
+An engineer who doesn't understand the dynamics behind the data will misdiagnose the problem, leading to misleading and irrelevant conclusions.
+
+**2 What was the key solution that helped salvage aircraft during World War II?**
+
+A\) Reinforcing parts of aircraft showing the most bullet holes.
+
+B\) Increasing the aircraft's speed to avoid being shot down.
+
+C\) Reinforcing parts of aircraft without bullet holes, based on data from aircraft that did not return.
+
+D\) Using distributed computation to predict enemy fire patterns.
+
+E\) Reinforcening aircraft cockpit parts to protect the pilot.
+
+Correct Answer: C
+
 ## (b)
+
+```{r}
+library(dslabs)
+data("polls_us_election_2016")
+my_first <- "Cihan"
+my_birth_year <- 2003
+k <- (nchar(my_first) + my_birth_year) %% 15 + 8
+if (k %% 2 == 0) head(polls_us_election_2016, k) else tail(polls_us_election_2016, k)
+
+# 1. NA Analizi
+sum(is.na(polls_us_election_2016))
+sort(colSums(is.na(polls_us_election_2016)), decreasing = TRUE)[1:8]
+
+# 2. NA Değiştirme (new_data objesine)
+new_data <- polls_us_election_2016
+
+for(i in 1:ncol(new_data)) {
+  if(is.numeric(new_data[[i]])) {
+    new_data[[i]][is.na(new_data[[i]])] <- my_birth_year + k
+  } else {
+    new_data[[i]] <- as.character(new_data[[i]])
+    new_data[[i]][is.na(new_data[[i]])] <- paste0(my_first, "_", k)
+  }
+}
+
+if (k %% 2 == 0) head(new_data, k) else tail(new_data, k)
+sum(is.na(new_data))
+anyNA(new_data)
+```
+
+AI assistance was used when writing the for function..
+
+\- Yukarıda gördüğün Taski incele ve bana aşsağıda yazdığım kodun eksikliğini giderecek şekilde taski bitir. - Koddaki fonksiyon isimlerini düzenle herkesin anlayacağı hale getir.
+
+```{r}
+library(dslabs)
+
+data("polls_us_election_2016")
+
+my_first = "Cihan"
+my_birth_year = 2003
+
+name_length = nchar(my_first)
+
+k = (name_length + my_birth_year) %% 15 + 8
+
+if (k %% 2 == 0) {
+  head(polls_us_election_2016 , k)
+} else {
+  tail(polls_us_election_2016 , k)
+}
+```
+
+\
