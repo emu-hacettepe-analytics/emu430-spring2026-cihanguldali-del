@@ -2,9 +2,9 @@
   {
     "objectID": "project.html",
     "href": "project.html",
-    "title": "Our Course Project",
+    "title": "Insights & 2027 EV Projections",
     "section": "",
-    "text": "I’m honored to be a member of the [group name] project team.\nBelow, you’ll find a brief summary of our project. To access a detailed project description, please go to https://[your-project-url].\nSummary\n[provide a biref summary of your project]\n\n\n\n Back to top"
+    "text": "It is my pleasure to introduce myself as one of the members of Team-EV-Turkey. In our last assignment of EMU430 Data Analytics, we analyzed the EV market of Turkey with a special emphasis on the infrastructure readiness by 2027.\nYou can browse the complete project report through the following link:\n👉 👉 Click Here for the Full Project Website 👈 👈\n\nProject Summary\nThe focus of our research is on the question of whether Turkey’s charging station infrastructure will be able to cope with the explosive rise in electric vehicle numbers. Some main points of our research are presented below:\n\nCustom Data Pipeline: Creation of “City Repair Engine,” based on Fuzzy Matching to guarantee 100% data accuracy obtained from EPDK databases.\nHigh Correlation: Our findings have shown a correlation coefficient of 0.9826 between electric vehicle numbers and charging station numbers, showing the reactivity rather than proactiveness of current investments.\nForecast 2027: Identification of a great investment deficiency based on Log-Linear models in transit-route provinces.\n\n\n\nKey Takeaways\n\nExponential Growth: Turkey is adopting electric vehicles exponentially, surpassing the predictions of conventional linear models.\nInfrastructure Shortage: By 2027, several provinces will be at risk of having an insufficient number of charging points based on present investment trends.\nPriority Focus: The heat map projections show Manisa, İzmir, and Gaziantep as priority provinces for infrastructure development.\n\n\nAI Disclosure: Paraphrasing assistance was obtained using AI.\n\n\n\n\n Back to top"
   },
   {
     "objectID": "index.html",

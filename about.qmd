@@ -25,17 +25,13 @@ sidebar: false
 
 **AI & Predictive Maintenance Project**
 
-Developing a Hybrid LSTM AI model to predict machine health (RUL) by
-analyzing vibration signatures. Implementing sensor fusion techniques for
-industrial bearing fault detection.(non-linear system)
+Developing a Hybrid LSTM AI model to predict machine health (RUL) by analyzing vibration signatures. Implementing sensor fusion techniques for industrial bearing fault detection.(non-linear system)
 
 ![](images/clipboard-401939108.png)
 
 ![](images/clipboard-2117203073.png)**Smart E-Bike Kit Design**
 
-Designing a friction-drive E-Bike conversion kit with an ESP32-based
-control algorithm. Developing a Digital Twin simulation in
-MATLAB/Simulink to analyze real-time telemetry.
+Designing a friction-drive E-Bike conversion kit with an ESP32-based control algorithm. Developing a Digital Twin simulation in MATLAB/Simulink to analyze real-time telemetry.
 
 ![](images/clipboard-4065804599.png){width="595"}
 
